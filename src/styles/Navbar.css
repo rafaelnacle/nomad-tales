@@ -1,0 +1,12 @@
+nav {
+  background-color: #FF8058;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+nav h3 {
+  color: #1D1D1D;
+  font-weight: 400;
+}

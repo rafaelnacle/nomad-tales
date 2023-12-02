@@ -1,0 +1,52 @@
+.card {
+  max-width: 470px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.25em;
+  margin: 1em auto;
+}
+
+.card--travel-img {
+  object-fit: cover;
+  width: 125px;
+  height: 168px;
+  border-radius: 5px;
+}
+
+.card--header-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.3125em;
+}
+
+.card h4 {
+  font-size: 0.64em;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+.card h3 {
+  font-size: 0.64em;
+  font-weight: bold;
+  margin: 0;
+}
+
+.card h1 {
+  font-size: 1.5625em;
+  font-weight: bold;
+  margin-bottom: 0.4em;
+  margin-top: 0;
+}
+
+.card p {
+  font-size: 0.64em;
+}
+
+.card a {
+  color: #918E9B;
+  font-size: 0.64em;
+  margin-left: 0.625em;
+}
