@@ -4,9 +4,14 @@ nav {
   align-items: center;
   justify-content: center;
   gap: 10px;
+  margin: 0;
+  height: 80px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+  margin-bottom: 3em;
 }
 
 nav h3 {
   color: #1D1D1D;
   font-weight: 400;
+  font-size: 1.5rem;
 }
